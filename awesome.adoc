@@ -1,0 +1,15 @@
+# awesome
+
+## web service
+
+https://www.draw.io/[draw.io]::
+最強の説明画像作成ツール +
+https://nelog.jp/draw-io[無料で説明図を作るならドローツール「draw\.io」に敵うものはないかも]
+
+https://vectr.com/[Vectr \- Free Online Vector Graphics Editor]::
+ベクター画像の作成ツール。ロゴの作成に便利。 https://vecta.io/[vecta.io]とは別モノ
+
+
+
+https://regexper.com/[Regexper]::
+正規表現を図で確認できる
