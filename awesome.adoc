@@ -1,6 +1,6 @@
-# awesome
+= awesome
 
-## web service
+== web service
 
 https://www.draw.io/[draw.io]::
 最強の説明画像作成ツール +
@@ -9,7 +9,40 @@ https://nelog.jp/draw-io[無料で説明図を作るならドローツール「d
 https://vectr.com/[Vectr \- Free Online Vector Graphics Editor]::
 ベクター画像の作成ツール。ロゴの作成に便利。 https://vecta.io/[vecta.io]とは別モノ
 
+https://namelix.com/[namelix]::
+ブランド名ジェネレーター。キーワードを入力すればブランド名を生成、ロゴのサンプルまで表示。名刺デザインやアイコンの作成は有料
+
 
 
 https://regexper.com/[Regexper]::
 正規表現を図で確認できる
+
+http://www.globtester.com/[globtester]::
+glob-matchをテストできる
+
+== npm
+
+eazy-logger::
+browser-syncで利用されているlogger。単にログレベルで出力制御したい時に便利。
+READMEが適当で機能がよくわからないのが難点。
+
+cac::
+`commander.js` のように、cliアプリケーションを手軽に作成できる。軽い。
+
+tiny-glob::
+`glob` より速くて軽い。(39.6KB)
+
+globby::
+`glob` より多機能で複数条件での抽出や `.gitignore` に対応してくれる。だが大きい。(3.27MB)
+
+opn::
+urlを指定すればブラウザで開いてくれる。
+
+rlite-router::
+httpサーバーでrouterとして使える。省機能。
+
+victorica::
+htmlのフォーマットユーティリティ。軽い。
+
+write-file-atomic::
+`fs.writefile`のatomicバージョン。Promise非対応。
