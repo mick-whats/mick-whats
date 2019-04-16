@@ -1,0 +1,37 @@
+= works
+
+== TODO - 作るかもしれないリスト
+
+* repos
+** gitリポジトリを管理するコマンドラインアプリ
+** find(もしくはstore?) - ローカル内の全.gitリポジトリを検索しDB(?)に保存
+** list - 保存したリポジトリのパスを出力。peco等に渡せるような形式で
+
+* google translator
+** htmlにgoogle翻訳を設定する
+** 詳細未定
+
+== DOING - 製作中リスト
+=== npm
+
+* hify
+* boip
+
+== DONE - 公開済みリスト
+=== npm
+
+* strfy
+** console.log的に変数やオブジェクト等をブラウザで確認できる。オブジェクトは折りたたみ可。
+* ohlc
+** 相場の価格(open, High, Low, Close, Volume)を扱うユーティリティ。MA等を追加できる。
+* bizday
+** 日本の営業日を算出。
+* xza
+** lodash拡張。全角から半角に変換、和暦文字列を西暦文字列に変換など。
+* args2
+** 引数をtype別に分類することで
+* string.split.clip
+* objelity
+* temject
+* temject.copy
+* rrq
